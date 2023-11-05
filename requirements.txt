@@ -1,1 +1,2 @@
-microdot~=1.3.3
+pedalboard~=0.8.5
+pybluez~=0.23
