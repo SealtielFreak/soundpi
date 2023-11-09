@@ -1,2 +1,1 @@
-pedalboard~=0.8.5
-pybluez~=0.23
+pybluez2~=0.46
